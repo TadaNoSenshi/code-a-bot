@@ -1,2 +1,5 @@
-# code-a-bot
-A dicord Python Bot which can explain you a lot of different programming languages to code a bot
+# Code-a-Bot
+A Dicord Bot, written in Python, can help you create your first Discord Bot in many different Languages, Librarys!
+
+# Setup
+etc.
